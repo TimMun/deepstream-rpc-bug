@@ -1,0 +1,25 @@
+{
+  "name": "deepstream-rpc-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "failure.js",
+  "dependencies": {
+    "@deepstream/client": "^4.1.3",
+    "@deepstream/clusternode-redis": "0.0.1",
+    "@deepstream/server": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimMun/deepstream-rpc-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimMun/deepstream-rpc-bug/issues"
+  },
+  "homepage": "https://github.com/TimMun/deepstream-rpc-bug#readme"
+}
